@@ -1,0 +1,12 @@
+When diabetes is detected early, the patient may not only delay but even prevent progression to diabetes. Disease prevention is significantly less expensive and a lot of future diabetic complications can be avoided. Hence both monetarily and health wise, from both the patients point of view and the healthcare system's point of view early diabetes detection is a very key challenge having signiicant impacts.
+Diabetes is one of the fastest growing chronic life threatening diseases that has already affected millions of people worldwide. Due to the presence of a relatively long asymptomatic phase, early detection of diabetes is always desired for a clinically meaningful outcome. Around 50% of all people suffering from diabetes are undiagnosed because of its long-term asymptomatic phase. To tackle this problem we used a publically available dataset which contains 520 observations with 17 characteristics, collected using direct questionnaires and diagnosis results from the patients in the Sylhet Diabetes Hospital in Sylhet, Bangladesh. Based on this dataset, we tried to plot the correlation and feature importances as depicted in the figures below.
+The glossary has been listed below to help you understand the plot better.
+• Polyuria: Whether the patient experienced excessive urination or not.
+• Polydipsia: Whether the patient experienced excessive thirst/excess drinking or not.
+• Sudden_weight_loss: Whether patient had an episode of sudden weight loss or not.
+• Partial paresis: Whether patient had partial or mild paralysis
+• Polyphagia: Whether patient had an episode of excessive/extreme hunger or not.
+• Alopecia: Whether patient had an episode of hair loss.
+• Genital_thrush: Whether patient had a yeast infection or not.
+• Visual_blurring: Whether patient had an episode of blurred vision.
+To add social value we have decided to build a free to use tool in which you have to answer a few questions based on which you will get your diagnosis. Please note that this diagnosis is an indicative one and cannot be completely relied upon. Kindly visit a medical expert for more comprehensive insights.
